@@ -11,7 +11,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/texto_etiqueta_conteo"
+        android:text="@string/texto_etiqueta_conteo"/>
 
            <EditText
            android:layout_width="match_parent"
